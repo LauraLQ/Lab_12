@@ -1,0 +1,3 @@
+reinterpret_cast converts any pointer type to any other pointer type, even of unrelated classes. 
+The operation result is a simple binary copy of the value from one pointer to the other. 
+All pointer conversions are allowed: neither the content pointed nor the pointer type itself is checked.
